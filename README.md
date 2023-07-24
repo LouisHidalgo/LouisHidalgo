@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**LouisHidalgo/LouisHidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hello! My Name is Louis A Hidalgo II. 
 I am currently aspiring programming student with Tech Elevator. 

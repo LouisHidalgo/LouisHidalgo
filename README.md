@@ -3,7 +3,7 @@
 </div>
 
 Hello! My Name is Louis A Hidalgo II. 
-I am currently an aspiring computer programer student. 
+I am currently an aspiring computer programmer. 
 I have completed the Tech Elevator Program which includes three different programming languages. 
 I look forward to continue to learn and code by completing new bootcamps, on-line content, projects and assignments. 
 When I am not working or coding, I am hanging with friends, gaming, or volunteering at an animal shelter. 

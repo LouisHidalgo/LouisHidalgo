@@ -1,6 +1,13 @@
-<div id="header" align="center>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtmOG5pcmlieGQ1bGJmOTBlMGJwa25pM3ZldHJ3NTFwZXRmNnhtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMGOIRnDWIUUM4htkD/giphy.gif" width="100"/>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llbjFrbnFjaXJkNWZzcTh0c2d3cXRrd2Z5Ymp6eHZsamFjcXQ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div> 
+
+<div id="badges" align="center">
+    <a href="www.linkedin.com/in/louisahidalgo44">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
+
 
 Hello! My Name is Louis A Hidalgo II. 
 I am currently an aspiring computer programmer. 

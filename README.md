@@ -25,7 +25,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chicago, Illinois.
 
-- :telescope: I’m working to obtain and start an entry level Software Engineer Career.
+- :telescope: I am working to obtain and start an entry level Software Engineer Career.
 - :seedling:After Completeing the Tech Elevator Program, I am Exploring Coding languaes and learning as much as I can.
 - :zap: In my free time, I like to learn about computer coding languages, reading, exercies, watching movies, and playing video games.
 - - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louisahidalgo44/)
